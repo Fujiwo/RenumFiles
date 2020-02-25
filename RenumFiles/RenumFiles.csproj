@@ -3,5 +3,13 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <Authors>Fujio Kojima</Authors>
+    <Company>Sho's Software</Company>
+    <Copyright>Copyright ©  2020 Fujio Kojima</Copyright>
+    <RepositoryUrl>https://github.com/Fujiwo/RenumFiles/</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Fujiwo/RenumFiles/</PackageProjectUrl>
+    <Description>Renumber File Names</Description>
   </PropertyGroup>
 </Project>
