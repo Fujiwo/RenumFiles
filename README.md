@@ -1,7 +1,7 @@
 
 File Renumbering  Tool
 
-*Usage
+* Usage
 
 RenumFiles [targetPath] /F[format]
 ex.
