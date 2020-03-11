@@ -1,3 +1,8 @@
+
+File Renumbering  Tool
+
+*Usage
+
 RenumFiles [targetPath] /F[format]
 ex.
         RenumFiles C:\MyPictures\*.png /F000\0
